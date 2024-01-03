@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 
 function App() {
-  let [color,setColor] = useState('black');
+  let [color,setColor] = useState('fuchsia');
 
   return (
     <div className="relative w-full h-screen duration-200" 
